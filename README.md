@@ -1,7 +1,7 @@
 # ShadowRocket-Template-Rule-Config
 > 自用ShadowRocket规则配置模板
 
-[Clash Template Config](https://cdn.jsdelivr.net/gh/yeehonglee/Clash-Template-Config@master/Clash-Template-Config.yml)
+[ShadowRocket Template Rule Config](https://cdn.jsdelivr.net/gh/yeehonglee/ShadowRocket-Template-Rule-Config@master/ShadowRocket-Template-Rule-Config.conf)
 
 # App Filter
 > 应用分流规则
