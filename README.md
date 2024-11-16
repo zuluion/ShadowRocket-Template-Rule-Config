@@ -48,3 +48,6 @@
 # Help Document
 > 参考帮助文档
 [Shadowrocket_Configure](https://github.com/GMOogway/shadowrocket-rules/blob/master/docs/01.shadowrocket_configure.md)
+
+# Link
+1. [ProxySoftware-Template-Config](https://github.com/zuluion/ProxySoftware-Template-Config)
